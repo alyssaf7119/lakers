@@ -1,0 +1,7 @@
+Topic: Los Angeles Lakers
+Sub 1:  News (index.html)
+Sub 2: Ranks/Roster (rank.html)
+Sub 3: Highlights (highlights.html)
+Sub 4: Gallery (gallery.html)
+Sub 5: Schedule (schedule.html)
+Sub 6: Ticket sales (tickets.html)

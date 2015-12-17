@@ -1,0 +1,44 @@
+@import url (https://fonts.googleapis.com/css?family=montserrat);
+@import url(https://fonts.googleapis.com/css?family=Sancreek);
+@import url(https://fonts.googleapis.com/css?family=Lato);
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+@import url(https://fonts.googleapis.com/css?family=Shadows+Into+Light);
+@import url(https://fonts.googleapis.com/css?family=Amatic+SC);
+@import url(https://fonts.googleapis.com/css?family=Nunito);
+@import url(https://fonts.googleapis.com/css?family=Quicksand);
+body
+      {
+	background-image: url('pics/background_purple.png');
+	background-attachment: fixed;
+	  font-family: Bree Serif;}
+
+.montserrat{
+	font-family: monserrat;
+}
+.sancreek{
+	font-family: sancreek;
+}
+.lato{
+	font-family: lato;
+}
+.indieflower{
+	font-family: indie flower;
+}
+.shadowsintolight{
+	font-family: shadows into light;
+}
+.amaticsc{
+	font-family: amatic SCS;
+}
+.nunito{
+	font-family: nunito;
+}
+.quicksand{
+	font-family: quicksand;
+}
+       
+
+
+
+
+	
